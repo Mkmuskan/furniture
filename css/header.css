@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'newyork';
+    src: url(/fonts/NewYork\ PERSONAL\ USE.otf);
+}
+
+body{
+    font-family: 'Poppins';
+
+}
