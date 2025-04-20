@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'newyork';
-    src: url('/fonts/NewYork\ PERSONAL\ USE.otf');
+    src: url('/fonts/NewYorkPersonalUse.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body{
